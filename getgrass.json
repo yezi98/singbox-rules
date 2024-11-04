@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        ".getgrass.io"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "getgrass"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "129.226.3.47/32",
+        "162.62.163.63/32"
+      ]
+    }
+  ]
+}
